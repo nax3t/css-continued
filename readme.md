@@ -22,9 +22,9 @@ Review/Cold calling:
 
 ![Box-sizing](http://bcfedigitalmedia.com/wordpress/wp-content/uploads/2015/11/box-sizing-property.jpg)
 
-- [Pseudo class](https://developer.mozilla.org/en-US/docs/Web/CSS/pseudo-classes) (:hover, ;focus, :active, :first-child, :nth-child(), etc)
+- [Pseudo class](https://developer.mozilla.org/en-US/docs/Web/CSS/pseudo-classes) (:hover, :focus, :active, :first-child, :nth-child(), etc)
 "...specifies a special state of the element to be selected"
-- [Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) (::after, ::before, ::first-letter, ::fitrst-line, etc)
+- [Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) (::after, ::before, ::first-letter, ::first-line, etc)
 "...allow you to style certain parts of a document"
 - [Floats and clear](https://css-tricks.com/all-about-floats/), are they [good to use for layouts](http://stackoverflow.com/questions/9776840/are-floats-bad-what-should-be-used-in-its-place)?
 - Other ways to position? Run through the [ten steps of absolute and relative positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
