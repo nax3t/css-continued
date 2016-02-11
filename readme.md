@@ -28,7 +28,7 @@ Review/Cold calling:
 "...allow you to style certain parts of a document"
 - [Floats and clear](https://css-tricks.com/all-about-floats/), are they [good to use for layouts](http://stackoverflow.com/questions/9776840/are-floats-bad-what-should-be-used-in-its-place)?
 - Other ways to position? Run through the [ten steps of absolute and relative positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-- [Visibility:hidden vs display:none](http://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone)
+- [Visibility:hidden vs display:none](http://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone) and an [example](http://codepen.io/nax3t/pen/bEOOPK)
 - [Flex box playground](http://demo.agektmr.com/flexbox/)
 
 ## Normalize vs Reset
